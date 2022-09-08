@@ -1,0 +1,22 @@
+#container {
+    position: relative;
+    font-size: 0px;
+}
+
+div.child {
+    display: inline-block;
+    height: 8px;
+    width: 8px;
+    border: 1px solid;
+    font-size: 1rem;
+}
+
+.promise-avatar-example {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    position: fixed;
+    left: 350px;
+    top: 350px;
+}
